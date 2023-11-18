@@ -23,7 +23,7 @@ https://github.com/txtatech/ai-colony
 
 #OTHER INFO
 
-# The GPT model also has access to the Virtual Forest framework via a copy of its Virtual_Forest_Epoch_Rising.txt file:
+# The GPT model also has access to the [Virtual Forest framework](https://github.com/txtatech/virtual-forest) via a copy of its Virtual_Forest_Epoch_Rising.txt file:
 
 https://github.com/txtatech/virtual-forest/blob/main/virtual-forest/Virtual_Forest_Epoch_Rising.txt
 
